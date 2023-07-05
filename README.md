@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine_Learning Project
 Face Mask Detection using Convolutional Neural Network model
 
 Following the onset of the COVID-19 pandemic, the government has mandated the wearing of masks. In this project, machine learning techniques, specifically a Convolutional Neural Network (CNN) model, were utilized to discern whether individuals were wearing masks in given images.
