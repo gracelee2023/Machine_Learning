@@ -1,9 +1,9 @@
 # Machine_Learning
 Face Mask Detection using Convolutional Neural Network model
 
-Since the outbreak of covid-19, wearing a mask has been required by the government. Also, it is widely used by tech companies like Uber. In this project, machine learning techniques was used to identify if people wear masks or not. In this project, given a picture, the CNN model can detect if a face mask is worn or not.
+Following the onset of the COVID-19 pandemic, the government has mandated the wearing of masks. In this project, machine learning techniques, specifically a Convolutional Neural Network (CNN) model, were utilized to discern whether individuals were wearing masks in given images.
 
 Dataset: https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
 
-Data set contains 3GB images about people with/without masks. Images are labelled as face with mask, face with other covers and face with no mask. A total of 6024 images in the dataset.
+The dataset comprises 3GB of images depicting individuals either with or without masks. These images are categorized into three labels: faces with masks, faces with other coverings, and faces without masks. In total, the dataset includes 6024 images.
 
